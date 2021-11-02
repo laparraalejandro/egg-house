@@ -1,5 +1,5 @@
 # EGG HOUSE
-![Watch Now](./img/Design.jpg)
+![Watch Now](./img/Design.png)
 ## Mira que zarpado esta EGG ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/sMQEHbJfd0o   
 
 
