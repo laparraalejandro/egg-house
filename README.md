@@ -1,19 +1,13 @@
-# One page Portfolio Website (HTML CSS Project for Ppractice)
+# EGG HOUSE
 ![Watch Now](./img/Design.jpg)
-## Watch The Complete Tutorial ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y   
+## Mira que zarpado esta EGG ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/sMQEHbJfd0o   
 
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
-<b>coded by [Shaif Arfan](https://github.com/shaifarfan)</b>
+Este es un front de practica con HTML &amp; css . Hicimos esto para despues sumarlo al back y hacer el proyecto final.
+<b>codeado por [Ale Laparra](https://github.com/shaifarfan)</b>
 
 
-## Similar Projects/turorials
-
- - [Amy's Portfolio - (html, css project)](https://github.com/ShaifArfan/AMYs-Portfolio)
- - [Ayans's Profolio - (react.js project)](https://github.com/ShaifArfan/AYANs-portfolio)
-  
-
-### 👍 HAVE FUN 👍
-Thanks, Arfan
+### 👍 DIVIERTANSE 👍
+El Chacho
 
 
